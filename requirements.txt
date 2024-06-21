@@ -1,0 +1,7 @@
+sklearn
+json
+os
+requests
+io
+PIL
+urllib
